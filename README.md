@@ -37,6 +37,7 @@ sou fascinado em aprender e atualmente tenho me dedicado a me tornar um dev Fron
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 - Cursando Pós em Engenharia de Software na FAMEF - Faculdade Metropolitana de Franca.
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20FORMAÇÃO&color=GREEN&style=for-the-badge)
 
 ## Meus dados no Github
