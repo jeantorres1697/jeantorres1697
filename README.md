@@ -18,7 +18,7 @@ Olá, eu sou o Jean! 🇧🇷
 </h3>
 
 ```
-Formado em Análise de Sistemas pela Unopar - Universidade Norte do Paraná, 
+Formado em Análise e desenvolvimento de Sistemas pela Unopar - Universidade Norte do Paraná, 
 sou fascinado em aprender e atualmente tenho me dedicado a me tornar um dev Front-End.
 ```
 ## Tecnologias que estou estudando atualmente 💻
