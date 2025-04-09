@@ -28,10 +28,6 @@ sou fascinado em aprender e atualmente tenho me dedicado a me tornar um dev Fron
   - CSS3
   - Javascript
   - React
-  - PHP
-  - Wordress
-  - SASS
-  - Next.Js
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
